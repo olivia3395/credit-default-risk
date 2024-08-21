@@ -2,6 +2,9 @@
 
 # Credit Default Risk
 
+
+This repository contains the code and data for the Credit Default Risk Prediction using Machine Learning.
+
 This project analyzes credit default risk using various machine learning models. The goal is to predict whether customers will default on loans based on their credit usage and personal information. Different machine learning techniques such as XGBoost, Logistic Regression, and data balancing methods like SMOTE are employed.
 
 ## Table of Contents
@@ -21,6 +24,10 @@ Credit risk is a critical issue for financial institutions. By predicting defaul
 The primary goal is to achieve high predictive performance, focusing on minimizing the number of false positives (customers predicted not to default but who do) while maintaining strong overall performance.
 
 ## Data
+
+The data used in this project can be downloaded from the following Google Drive link:
+
+[Download Data from Google Drive](https://drive.google.com/file/d/14rrwY-2Zt2tFKm3MDjqeFx51ThzGMvRu/view?usp=drive_link)
 
 The dataset used in this project consists of various features that describe customers' financial profiles, credit behavior, and demographics. The dataset includes:
 - Credit card balance
