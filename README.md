@@ -1,9 +1,4 @@
-# credit-default-risk
 
-
-To help you complete the `README` file for your `credit-default-risk` project on GitHub, here's a template based on common sections found in project documentation. Please fill in any specific details that you think are important for your project.
-
----
 
 # Credit Default Risk
 
